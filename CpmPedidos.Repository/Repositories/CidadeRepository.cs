@@ -111,6 +111,7 @@ namespace CpmPedidos.Repository
                 return false;
             }
 
+            // localiza a cidade se null retorna false
             var entity = DbContext.Cidades.Find(id);
             if (entity == null)
             {
