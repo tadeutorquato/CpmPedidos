@@ -2,4 +2,11 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/CpmPedidos.Domain/obj/Debug/net5.0
+/CpmPedidos.API/obj
+/CpmPedidos.API/bin
+/CpmPedidos.Domain/obj
+/CpmPedidos.Domain/bin
+/CpmPedidos.Interface/obj
+/CpmPedidos.Interface/bin
+/CpmPedidos.Repository/obj
+/CpmPedidos.Repository/bin
