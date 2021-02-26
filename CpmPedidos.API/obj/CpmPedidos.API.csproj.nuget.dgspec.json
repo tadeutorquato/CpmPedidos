@@ -10,11 +10,11 @@
         "projectUniqueName": "C:\\Projetos\\CpmPedidos\\CpmPedidos.API\\CpmPedidos.API.csproj",
         "projectName": "CpmPedidos.API",
         "projectPath": "C:\\Projetos\\CpmPedidos\\CpmPedidos.API\\CpmPedidos.API.csproj",
-        "packagesPath": "C:\\Users\\Tadeu\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\tadeu\\.nuget\\packages\\",
         "outputPath": "C:\\Projetos\\CpmPedidos\\CpmPedidos.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Tadeu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tadeu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -89,11 +89,11 @@
         "projectUniqueName": "C:\\Projetos\\CpmPedidos\\CpmPedidos.Domain\\CpmPedidos.Domain.csproj",
         "projectName": "CpmPedidos.Domain",
         "projectPath": "C:\\Projetos\\CpmPedidos\\CpmPedidos.Domain\\CpmPedidos.Domain.csproj",
-        "packagesPath": "C:\\Users\\Tadeu\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\tadeu\\.nuget\\packages\\",
         "outputPath": "C:\\Projetos\\CpmPedidos\\CpmPedidos.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Tadeu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tadeu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -143,11 +143,11 @@
         "projectUniqueName": "C:\\Projetos\\CpmPedidos\\CpmPedidos.Interface\\CpmPedidos.Interface.csproj",
         "projectName": "CpmPedidos.Interface",
         "projectPath": "C:\\Projetos\\CpmPedidos\\CpmPedidos.Interface\\CpmPedidos.Interface.csproj",
-        "packagesPath": "C:\\Users\\Tadeu\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\tadeu\\.nuget\\packages\\",
         "outputPath": "C:\\Projetos\\CpmPedidos\\CpmPedidos.Interface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Tadeu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tadeu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -201,11 +201,11 @@
         "projectUniqueName": "C:\\Projetos\\CpmPedidos\\CpmPedidos.Repository\\CpmPedidos.Repository.csproj",
         "projectName": "CpmPedidos.Repository",
         "projectPath": "C:\\Projetos\\CpmPedidos\\CpmPedidos.Repository\\CpmPedidos.Repository.csproj",
-        "packagesPath": "C:\\Users\\Tadeu\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\tadeu\\.nuget\\packages\\",
         "outputPath": "C:\\Projetos\\CpmPedidos\\CpmPedidos.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Tadeu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tadeu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

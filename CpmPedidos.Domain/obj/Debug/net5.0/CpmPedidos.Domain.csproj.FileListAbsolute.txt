@@ -9,3 +9,4 @@ C:\Projetos\CpmPedidos\CpmPedidos.Domain\obj\Debug\net5.0\CpmPedidos.Domain.cspr
 C:\Projetos\CpmPedidos\CpmPedidos.Domain\obj\Debug\net5.0\CpmPedidos.Domain.dll
 C:\Projetos\CpmPedidos\CpmPedidos.Domain\obj\Debug\net5.0\ref\CpmPedidos.Domain.dll
 C:\Projetos\CpmPedidos\CpmPedidos.Domain\obj\Debug\net5.0\CpmPedidos.Domain.pdb
+C:\Projetos\CpmPedidos\CpmPedidos.Domain\obj\Debug\net5.0\CpmPedidos.Domain.csprojAssemblyReference.cache
